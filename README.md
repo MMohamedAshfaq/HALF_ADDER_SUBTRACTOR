@@ -69,3 +69,5 @@ RegisterNumber:212224240090  */
 ![4bde0e4c-30e6-4cf3-8eef-6012b352f8fb](https://github.com/user-attachments/assets/c0bbafad-189e-4fd5-b94f-718dba286e74)
 
 **Result:**
+Designed a half adder and half subtractor circuit and verified its truth table in Quartus using Verilog
+programming
